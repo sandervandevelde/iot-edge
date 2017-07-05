@@ -107,7 +107,7 @@ set(gateway_h_sources
     ./inc/gateway_version.h
     ./src/gateway_internal.h
     ./inc/message_queue.h
-    ./inc/broker.h    
+    ./inc/broker.h
 )
 
 # Add the module loaders
